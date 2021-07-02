@@ -1,0 +1,16 @@
+@charset 'utf-8';
+#h1{
+    margin: 20px;
+}
+.bg-preto{
+    background-color: black;
+}
+.font-verde{
+    color: green;
+}
+.font-vermelho{
+    color: red;
+}
+.font-tam-medio{
+    font-size: 20px;
+}
